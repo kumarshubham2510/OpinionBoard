@@ -1,6 +1,27 @@
 {
   "opinions": [
     {
+      "id": 1747627373945,
+      "votes": 0,
+      "userName": "Rajeev",
+      "title": "React Forms",
+      "body": "Indeed react forms is pretty good"
+    },
+    {
+      "id": 1747627322433,
+      "votes": 0,
+      "userName": "Shubham",
+      "title": "Form is great",
+      "body": "React Form is added in React 19"
+    },
+    {
+      "id": 1747626909388,
+      "votes": 0,
+      "userName": "Shubham",
+      "title": "React is Great",
+      "body": "React is a really good tool"
+    },
+    {
       "id": 1,
       "userName": "Maximilian Schwarzmüller",
       "title": "Do yourself a favor and learn React!",
