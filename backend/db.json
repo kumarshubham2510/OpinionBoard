@@ -2,14 +2,14 @@
   "opinions": [
     {
       "id": 1747627373945,
-      "votes": 0,
+      "votes": 5,
       "userName": "Rajeev",
       "title": "React Forms",
       "body": "Indeed react forms is pretty good"
     },
     {
       "id": 1747627322433,
-      "votes": 0,
+      "votes": 2,
       "userName": "Shubham",
       "title": "Form is great",
       "body": "React Form is added in React 19"
